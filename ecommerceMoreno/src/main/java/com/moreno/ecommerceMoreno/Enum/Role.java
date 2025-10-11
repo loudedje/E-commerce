@@ -1,6 +1,7 @@
+// Role.java
 package com.moreno.ecommerceMoreno.Enum;
 
 public enum Role {
-    ADMIN,
-    CLIENTE
+    ROLE_ADMIN,
+    ROLE_CLIENTE
 }
